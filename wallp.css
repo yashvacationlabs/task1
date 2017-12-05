@@ -1,145 +1,107 @@
- body{
-  height: 100%;
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  background-repeat: repeat-y;
-
- 
-
-    }
-    
-    .Heading{
-  width: 533px;
-  height: 46px;
-  font-size: 38px;
-  font-weight:400;
-  color: #ffffff;
-        margin-left: 235px;
-        padding-top: 20px;
-        
+body {
+    height: 100%;
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+    background-repeat: repeat-y;
 }
-    .btn
-    {
-        margin-top: 42px;
-        margin-left: -45px;
-    }
-    
-    .addtripbtn
-    {
-        margin-left: 350px;
-        
-        
-    }
-    
-    
-    .Totalmoney {
-  width: auto;
-  height: 24px;
-  font-size: 20px;
-  color: #ffffff;
-        font-weight: 100;
-            margin-left: 19px;
+.Heading {
+    width: 533px;
+    height: 46px;
+    font-size: 38px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-left: 235px;
+    padding-top: 20px;
 }
-    
-    
-    .Rectangle{
-  width: 870px;
-  height: 156px;
-  border-radius: 4px;
-  background-color: rgba(255, 255, 255, 0.2);
-  box-shadow: 0 1px 24px 0 rgba(255, 255, 255, 0.3);
-  border: solid 1px rgba(255, 255, 255, 0.3);
-  margin-bottom: 16px;
-
- 
-    }
-        
-        .rect {
-  width: 154px;
-  height: 154px;
-  border-radius: 4px;
+.btn {
+    margin-top: 42px;
+    margin-left: -45px;
 }
-    .htext {
-  width: 620px;
-  height: 24px;
-  font-size: 20px;
-  font-weight: bold;
-  color: #ffffff;
-  float: left;
-    }
-    .stext {
-  width: auto;
-  height: 17px;
-  font-size: 14px;
-  color: #ffffff;
-  float: left;
-        font-weight: 100;
+.addtripbtn {
+    margin-left: 350px;
 }
-    .ftext {
-  width: auto;
-  height: 42px;
-  font-size: 14px;
-  line-height: 1.5;
-  color: #ffffff;
-        float: left;
-        font-weight: 100;
+.Totalmoney {
+    width: auto;
+    height: 24px;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 100;
+    margin-left: 19px;
 }
-
-    .d_money {
-  width: 75px;
-  height: 24px;
-  font-size: 20px;
-  font-weight: 200;
-  text-align: right;
-  color: #ffffff;
+.Rectangle {
+    width: 870px;
+    height: 156px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 1px 24px 0 rgba(255, 255, 255, 0.3);
+    border: solid 1px rgba(255, 255, 255, 0.3);
+    margin-bottom: 16px;
+}
+.rect {
+    width: 154px;
+    height: 154px;
+    border-radius: 4px;
+}
+.htext {
+    width: 620px;
+    height: 24px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+    float: left;
+}
+.stext {
+    width: auto;
+    height: 17px;
+    font-size: 14px;
+    color: #ffffff;
+    float: left;
+    font-weight: 100;
+}
+.ftext {
+    width: auto;
+    height: 42px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #ffffff;
+    float: left;
+    font-weight: 100;
+}
+.d_money {
+    width: 75px;
+    height: 24px;
+    font-size: 20px;
+    font-weight: 200;
+    text-align: right;
+    color: #ffffff;
     float: right;
 }
-        .bbtn1 {
-  width: 154px;
-  height: 40px;
-  border-radius: 10px;
-  background-color: #ffffff;
-  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2);
-                display: inline-block;
-float: right;
-            
+.bbtn1 {
+    width: 154px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    float: right;
     margin-top: 41px;
-
-        
 }
-    .containertop
-    {
-       margin-left: 50px; 
-        
-        
-        
-    }
-    
-    .containermid
-    {
-            margin-left: 280px;
-
-        
-        
-    }
-     .containerdown
-    {
-            margin-left: 300px;
-
-        
-        
-    }
-    
-    .inpbox {
-  width: 164px;
-  height: 32px;
-  border-radius: 4px;
-  background-color: rgba(255, 255, 255, 0.3);
-  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2), inset 0 2px 6px 0 rgba(0, 0, 0, 0.7);
-  border: solid 1px rgba(255, 255, 255, 0.3);
+.containertop {
+    margin-left: 50px;
 }
-    
-    
-
+.containermid {
+    margin-left: 280px;
+}
+.containerdown {
+    margin-left: 300px;
+}
+.inpbox {
+    width: 164px;
+    height: 32px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2), inset 0 2px 6px 0 rgba(0, 0, 0, 0.7);
+    border: solid 1px rgba(255, 255, 255, 0.3);
+}
 
 
 
